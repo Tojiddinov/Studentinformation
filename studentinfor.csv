@@ -1,0 +1,10 @@
+id,Name,ethnicity,gender,gpa,Adrress,email,Age
+111111,John ,Hispanic,M,2.71,New Mexico,jdoe@example.com,17.9
+111112,Jane,Hispanic,F,3.73,New York,jsmith@example.com,18.1
+111113,Sarah,Hispanic,M,2.64,Arizona,sthomas@example.com,17.6
+111114,Frank,Race/ethnicity unknown,M,3.68,Arizona,fbrown@example.com,19
+111115,Mike,White,F,3.46,Washington,mdavis@example.com,18.2
+111116,Jennifer,Asian,M,4.24,Colorado,jwilson@example.com,18.5
+111117,Jessica,White,F,,Texas,jgarcia@example.com,18.8
+111118,Fred,Hispanic,F,2.54,Colorado,fclark@example.com,19.2
+111119,Bob,White,F,3.24,Colorado,blopez@example.com,18.5
